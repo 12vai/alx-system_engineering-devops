@@ -1,1 +1,1 @@
-shell variable expansions readme
+this is my readme file on shell redirections
